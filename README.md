@@ -1,4 +1,4 @@
-myCart is a Ecommerce web application developed by @anshu777u (Account Owned by Yogesh Kumar Dagar)
+myCart is a Ecommerce web application developed by @anshu777u 
 
 Stack Used :-
 
